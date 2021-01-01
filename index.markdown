@@ -16,7 +16,7 @@ Here are some of the services I offer to clients:
 * Cloud - Amazon Web Services (AWS), Microsoft Azure
 * Databases - SQL Server, MySQL and NoSQL
 * PHP
-* Conversation bots
+* [Conversation bots](/conversation-bots/)
 
 ## Technical services
 * Web hosting
@@ -30,4 +30,4 @@ Here are some of the services I offer to clients:
 * Web Analytics - Google Analytics, Adobe Analytics
 * Online advertising
 * Print/offline advertising
-* Web experiments - A/B or multi-variate testing
+* [Web experiments](/experiments/) - A/B or multi-variate testing
