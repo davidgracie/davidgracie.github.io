@@ -12,7 +12,7 @@ Here are some of the services I offer to clients:
 * Magento - e-commerce/online store
 * WordPress
 * JavaScript - Node, Angular and React
-* Java - SpringBoot, microservices
+* Java - Spring Boot, microservices
 * Cloud - Amazon Web Services (AWS), Microsoft Azure
 * Databases - SQL Server, MySQL and NoSQL
 * PHP
