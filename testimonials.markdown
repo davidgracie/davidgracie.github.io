@@ -2,6 +2,7 @@
 layout: page
 title: Testimonials
 permalink: /testimonials/
+redirect_from: /testimonial/
 ---
 
 ## Margaret Wills (Livingston Village Community Education Centre)
