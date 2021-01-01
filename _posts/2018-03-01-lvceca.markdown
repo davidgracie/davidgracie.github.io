@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Livingston Village Community Education Centre - Website"
+date:   2018-03-01 00:00:00 +0000
+categories: portfolio solo
+permalink: /portfolio/livingston-village-community-education-centre-website/
+author: David Gracie
+---
+LVCECA – Charity association
+
+A local community website to allow residents of Livingston and surrounding area to book spaces for clubs, parties and other events that encourage social engagement within the Livingston area.
+
+Customer-facing website including online booking forms, secure payment pages and public calendar. Private admin pages for the charity to manage the bookings as well as publish new content on the website.
+
+Solo project.
+
+![LVCECA Website Screenshot](/assets/images/portfolio/lvceca.png)
+
+Services provided:
+
+* Software development
+* Web hosting
+* Email hosting
+* Domain name management
+* SSL certificate management
+* Design
+
+Technology used:
+
+* JavaScript
+* jQuery
+* HTML5
+* CSS3
+* WordPress
+* PHP
+* MySQL
+* Stripe integration - payment processor
+
+[Visit Website](https://www.livingstonvillagecommunitycentre.org.uk/)

@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "WordPress 4.9 “Tipton” arrived today"
+date:   2017-11-27 00:00:00 +0000
+categories: news wordpress
+permalink: /wordpress-4-9-tipton-is-here/
+author: David Gracie
+---
+WordPress 4.9 “Tipton” has arrived (well, a day late…), so we’re going to highlight some of the new features and improvements that are included in this release including customiser workflow, coding improvements and widget updates.
+
+## Customiser workflow
+
+### Schedule, draft and share preview of customiser changes
+
+You can now save customiser changes as draft to finish later.  Also, you can make those changes ahead of time and schedule them to go live at a later time. If you want feedback on the changes you’ve drafted/scheduled, you can now share a preview link with people who don’t have access to the customiser, such as sales colleagues or your own customers.
+
+!["Save Draft", "Schedule" and "Share Preview Link" features added with WordPress 4.9](/assets/images/wordpress-4-9-tipton-is-here/Screen-Shot-2017-11-19-at-13.02.26.png)
+
+### Design locking
+
+Spent hours perfecting your masterpiece in customiser and then another developer comes along and overrides your changes. Frustrating, isn’t it? Well, now you can lock your design to prevent changes/deletion of your design. This works in the same way to locking your posts.
+
+### Prompt to save your work
+
+Sometimes you get distracted. Sometimes you forget to save your work. Sometimes you have to start from scratch. Sometimes you cry. However, “Tipton” has come to the rescue. With the latest WordPress release, you’ll be prompted to save your work if you’ve been away from it for a while.
+
+## Coding improvements
+
+### CSS syntax highlighting and error checking
+
+If you’re editing the CSS within WordPress (normally I wouldn’t recommend), it now has syntax highlighting and error checking. If you make a typo or use an unknown CSS property, it’ll show a warning icon on the line with the issue. Hover over this icon and it’ll show a tooltip with a short description of the problem.
+
+![CSS syntax highlighting and error checking](/assets/images/wordpress-4-9-tipton-is-here/Screen-Shot-2017-11-19-at-13.51.03.png)
+
+### Warning when editing themes and plugins inside WordPress
+
+If you try to use the Editor within WordPress 4.9, you’ll now get a warning popping up to highlight the dangers of editing this code without taking proper backups or testing it before deploying it to your live site.
+
+You can still continue to use Editor by clicking the “I understand” button, but please only do this if you’re certain about what you’re doing. Otherwise, you could break your whole site with the no backup to rollback to.
+
+![Warning given when editing themes and plugins within WordPress](/assets/images/wordpress-4-9-tipton-is-here/Screen-Shot-2017-11-19-at-14.02.48.png)
+
+## Widget updates
+
+### Gallery widget
+
+You can now add a gallery as a widget to any of your widget areas. Give it a title and add images from either your Media Library or upload new images.
+
+![Adding a gallery widget](/assets/images/wordpress-4-9-tipton-is-here/Screen-Shot-2017-11-19-at-14.07.55.png)
+
+### Add media button added to text widget
+
+The text widget we all know and love now has an “Add Media” button. This makes it easy to add media to static text block around your WordPress site.
+
+![Add media button added to text widget](/assets/images/wordpress-4-9-tipton-is-here/Screen-Shot-2017-11-19-at-14.11.07.png)
+
+## Developer improvements
+
+* Customiser JavaScript API has been updated and includes new base control templates, a date/time control, and section/panel/global notifications.
+* MediaElement.js has been updated to 4.2.6, which removes the jQuery dependencies, improves accessibility and modernises the UI.
+* CodeMirror, a new code editing library, is now available to use within themes and plugins.
+* Roles and capabilities has been updated to include more granular control over activating/deactivating plugins and installing/updating language files.
+
+There’s lots more improvements in WordPress 4.9, but these are just a few of the highlights.

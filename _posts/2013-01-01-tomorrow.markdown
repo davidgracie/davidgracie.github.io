@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "tomorrow.is - Online Newspaper"
+date:   2013-01-01 00:00:00 +0000
+categories: portfolio solo
+permalink: /portfolio/tomorrow-is-online-newspaper/
+author: David Gracie
+---
+
+Public-facing responsive website with content management system (CMS).
+
+Solo software development project with design from Tim Fraser Brown.
+
+![Tomorrow Website Screenshot](/assets/images/portfolio/tomorrow-website.jpg)
+
+Services provided:
+
+* Software development
+* Web hosting
+* Email hosting
+* Domain name management
+* SSL certificate management
+
+Technology used:
+
+* WordPress
+* Skeleton (Responsive Grid)
+* HTML5
+* CSS3
+* PHP
+* jQuery
+* VaultPress for backups
+
+[Visit Website](https://tomorrow.is/)
