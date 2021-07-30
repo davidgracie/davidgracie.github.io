@@ -10,6 +10,7 @@ Please [contact me](/contact/) on the social media links at the bottom of the pa
 
 Here are some of the services I offer to clients:
 
+<div class="highlight-box">
 ## Software development services
 * Magento - e-commerce/online store
 * WordPress
@@ -19,17 +20,22 @@ Here are some of the services I offer to clients:
 * Databases - SQL Server, MySQL and NoSQL
 * PHP
 * [Conversation bots](/conversation-bots/)
+</div>
 
+<div class="highlight-box">
 ## Technical services
 * Web hosting
 * Email hosting
 * Domain names
 * SSL certificates
 * General IT support
+</div>
 
+<div class="highlight-box">
 ## Marketing services
 * Search Engine Optimisation (SEO)
 * Web Analytics - Google Analytics, Adobe Analytics
 * Online advertising
 * Print/offline advertising
 * [Web experiments](/experiments/) - A/B or multi-variate testing
+</div>
