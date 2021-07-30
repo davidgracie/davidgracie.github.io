@@ -11,7 +11,7 @@ Please [contact me](/contact/) on the social media links at the bottom of the pa
 Here are some of the services I offer to clients:
 
 <div class="highlight-box" markdown="1">
-  ## Software development services
+  <h2>Software development services</h2>
   * Magento - e-commerce/online store
   * WordPress
   * JavaScript - Node, Angular and React
@@ -23,7 +23,7 @@ Here are some of the services I offer to clients:
 </div>
 
 <div class="highlight-box" markdown="1">
-  ## Technical services
+  <h2>Technical services</h2>
   * Web hosting
   * Email hosting
   * Domain names
@@ -32,7 +32,7 @@ Here are some of the services I offer to clients:
 </div>
 
 <div class="highlight-box" markdown="1">
-  ## Marketing services
+  <h2>Marketing services</h2>
   * Search Engine Optimisation (SEO)
   * Web Analytics - Google Analytics, Adobe Analytics
   * Online advertising
