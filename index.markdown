@@ -6,7 +6,9 @@ title: About Me
 
 I'm a web developer working with clients since 2007 across many sectors including charity, financial services, manufacturing, media and retail.
 
-Please [contact me](/contact/) on the social media links at the bottom of the page for a free, no-obligation quote for your next project.
+<div class="info-box">
+  <strong>Due to existing commitments, I'm not currently available for new projects</strong>
+</div>
 
 Here are some of the services I offer to clients:
 
