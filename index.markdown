@@ -7,7 +7,7 @@ title: About Me
 I'm a web developer working with clients since 2007 across many sectors including charity, financial services, manufacturing, media and retail.
 
 <div class="info-box">
-  <strong>Due to existing commitments, I'm not currently available for new projects</strong>
+  <strong>Due to existing commitments, I'm currently not available for new projects.</strong>
 </div>
 
 Here are some of the services I offer to clients:
