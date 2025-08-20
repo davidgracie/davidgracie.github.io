@@ -5,6 +5,7 @@ date:   2018-03-01 00:00:00 +0000
 categories: portfolio solo
 permalink: /portfolio/livingston-village-community-education-centre-website/
 author: David Gracie
+published: false
 ---
 LVCECA – Charity association
 
