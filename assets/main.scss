@@ -118,13 +118,9 @@ a:hover {
   margin-bottom: 6px;
 }
 
-.site-title:hover {
-  color: var(--violet);
-}
-
 .site-header .site-title:hover,
 .site-header .site-title:focus {
-  color: var(--violet);
+  color: var(--violet) !important;
 }
 
 .site-nav {
