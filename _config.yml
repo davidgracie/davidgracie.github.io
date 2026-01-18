@@ -29,8 +29,7 @@ linkedin_username: davidgracie
 
 # Build settings
 theme: minima
-# plugins:
-#   - jekyll-feed
+safe: true
 
 lang: "en-GB"
 header_pages:
