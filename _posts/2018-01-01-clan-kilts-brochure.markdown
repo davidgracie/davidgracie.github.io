@@ -8,7 +8,7 @@ author: David Gracie
 ---
 Clan Kilts Ltd – Kilt Hire & Retail Store
 
-Print brochure to showcase the hire and retail products offered by Clan Kilts.
+Product brochure to showcase the hire and retail products offered by Clan Kilts.
 
 Solo project.
 

@@ -23,6 +23,3 @@ Technology used:
 * PHP
 * jQuery
 * VaultPress for backups
-
-
-[Visit Website](https://www.gmiuk.com/)
