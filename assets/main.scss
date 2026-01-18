@@ -122,6 +122,11 @@ a:hover {
   color: var(--violet);
 }
 
+.site-header .site-title:hover,
+.site-header .site-title:focus {
+  color: var(--violet);
+}
+
 .site-nav {
   float: none;
   line-height: 1.2;
