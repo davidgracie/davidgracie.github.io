@@ -5,7 +5,9 @@ layout: home
   <section class="intro-card">
     <h2>About Me</h2>
     <p>I'm a software engineer working with clients since 2007 across many sectors including charity, financial services, manufacturing, media and retail.</p>
-    <p>Due to existing commitments, I'm currently not available for new projects.</p>
+    <div class="info-box">
+      <strong>Due to existing commitments, I'm currently not available for new projects.</strong>
+    </div>
   </section>
   <section class="services-card">
     <h2>Services Offered</h2>

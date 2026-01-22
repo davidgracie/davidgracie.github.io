@@ -319,8 +319,9 @@ body.home-page .page-content .wrapper {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 22px;
-  height: 22px;
+  width: 16px;
+  height: 16px;
+  transform: translateY(-2px);
   border-radius: 50%;
   border: 1px solid rgba(27, 27, 31, 0.2);
   font-size: 0.8rem;
@@ -335,7 +336,7 @@ body.home-page .page-content .wrapper {
 
 .services-info:hover {
   z-index: 12;
-  transform: translateY(-1px);
+  transform: translateY(-3px);
   box-shadow: 0 8px 16px rgba(27, 27, 31, 0.12);
 }
 
